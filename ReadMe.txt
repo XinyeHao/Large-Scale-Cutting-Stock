@@ -1,6 +1,6 @@
 Data are categorized into four folders.
 
-(a) Results related to S/N Ratio:
+(a) Instances & Results related to S/N Ratio:
 
 this folder includes four instances corresponding to the experiment related to Figure 4, and their results. 
 
