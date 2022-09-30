@@ -1,1 +1,1 @@
-Hello, this repository consists of the Java codes for the results in Tables 4, 5, 6, 7, and tables in the appendix.
+Hello, this repository consists of the Java codes for the results in Tables 4, 5, 6, 7, and tables in the appendix, as well as conclusion in Figure 6.
